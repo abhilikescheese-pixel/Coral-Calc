@@ -14,6 +14,13 @@ To access the website please use the link below:
 troubleshooting:
 -if the website is not loading please reload the tab if the problem consists please close the tab and reopen it.
 
+License:
+-No license was used when making this project
+
+NOTE - I used AI when making the css for the buttons and the html for the title.
+
+I used a tutorial by KennyYipCode :https://www.youtube.com/watch?v=KM8PIiqq97c&list=PLnKe36F30Y4a6fpvpxyzEvmKEVkPHvKlX
+
 <img width="170" height="206" alt="image" src="https://github.com/user-attachments/assets/a5bba497-fcbc-4618-af1e-98ab66d093e3" />
 
 
